@@ -1,6 +1,6 @@
 # bincom_python
 
-This project uses python to scrape data from an html file in the same repository and a certain set of actions like: 
+This project uses python to scrape data from an html file in the same repository transfers the data to a CSV file. With this the code performs a certain set of actions like: 
 -Mean
 -Mode
 -Variance etc.
